@@ -6,8 +6,14 @@ import org.st1.pages.GoogleSearchResultsPage;
 public class FirstTest {
 
     @Test
-    public void launchgoogle(){
+    public void firsttest(){
         System.out.println("First Test Executed");
+
+    }
+
+    @Test
+    public void secondtest(){
+        System.out.println("Second Test Executed");
 
     }
 }

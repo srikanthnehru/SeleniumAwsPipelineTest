@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8f3853c-c9b2-432c-b9ce-ba40de7725f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/st1/pages/GoogleHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/st1/pages/GoogleSearchResultsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/st1/pages/SamplePageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/st1/suites/SampleSuiteITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/st1/tests/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng-selenium.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+    <list default="true" id="f8f3853c-c9b2-432c-b9ce-ba40de7725f4" name="Changes" comment="Create First Testng Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/st1/tests/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/st1/tests/FirstTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +18,13 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
     </option>
   </component>
   <component name="Git.Settings">
@@ -97,6 +93,30 @@
       <option name="presentableId" value="Default" />
       <updated>1710166846965</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create First Testng Test">
+      <option name="closed" value="true" />
+      <created>1710169564441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710169564441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create First Testng Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create First Testng Test" />
   </component>
 </project>
